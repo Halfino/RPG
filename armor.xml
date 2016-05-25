@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zbroje>
+  <armor id="1">
+    <jmeno>Vycpavana zbroj</jmeno>
+    <obrana>2</obrana>
+    <cena>16</cena>
+  </armor>
+  <armor id="2">
+    <jmeno>Kozene brneni</jmeno>
+    <obrana>3</obrana>
+    <cena>20</cena>
+  </armor>
+  <armor id="3">
+    <jmeno>Supinove brneni</jmeno>
+    <obrana>4</obrana>
+    <cena>120</cena>
+  </armor>
+  <armor id="4">
+    <jmeno>Krouzkova zbroj</jmeno>
+    <obrana>5</obrana>
+    <cena>300</cena>
+  </armor>
+  <armor id="5">
+    <jmeno>Platove brneni</jmeno>
+    <obrana>6</obrana>
+    <cena>350</cena>
+  </armor>
+  <armor id="6">
+    <jmeno>Rytirska zbroj</jmeno>
+    <obrana>7</obrana>
+    <cena>800</cena>
+  </armor>
+</Zbroje>

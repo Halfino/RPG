@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<zbrane>
+  <zbran id="1">
+    <jmeno>Dyka</jmeno>
+    <sila>2</sila>
+    <cena>5</cena>
+  </zbran>
+  <zbran id="2">
+    <jmeno>Tesak</jmeno>
+    <sila>3</sila>
+    <cena>25</cena>
+  </zbran>
+  <zbran id="3">
+    <jmeno>Kratky mec</jmeno>
+    <sila>4</sila>
+    <cena>30</cena>
+  </zbran>
+  <zbran id="4">
+    <jmeno>Obusek</jmeno>
+    <sila>3</sila>
+    <cena>25</cena>
+  </zbran>
+  <zbran id="5">
+    <jmeno>Palcat</jmeno>
+    <sila>3</sila>
+    <cena>25</cena>
+  </zbran>
+  <zbran id="6">
+    <jmeno>Savle</jmeno>
+    <sila>4</sila>
+    <cena>32</cena>
+  </zbran>
+  <zbran id="7">
+    <jmeno>Siroky mec</jmeno>
+    <sila>5</sila>
+    <cena>39</cena>
+  </zbran>
+  <zbran id="8">
+    <jmeno>Sekera</jmeno>
+    <sila>3</sila>
+    <cena>25</cena>
+  </zbran>
+  <zbran id="9">
+    <jmeno>Kyj</jmeno>
+    <sila>3</sila>
+    <cena>25</cena>
+  </zbran>
+  <zbran id="10">
+    <jmeno>Mec Bastard</jmeno>
+    <sila>6</sila>
+    <cena>48</cena>
+  </zbran>
+  <zbran id="11">
+    <jmeno>Dlouhy mec</jmeno>
+    <sila>7</sila>
+    <cena>60</cena>
+  </zbran>
+  <zbran id="12">
+    <jmeno>Valecne kladivo</jmeno>
+    <sila>5</sila>
+    <cena>39</cena>
+  </zbran>
+  <zbran id="13">
+    <jmeno>Remdich</jmeno>
+    <sila>4</sila>
+    <cena>32</cena>
+  </zbran>
+</zbrane>
