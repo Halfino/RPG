@@ -184,4 +184,13 @@ class Bojovnik
     max_hp = @odolnost + bonusy["b_odolnost"]
     return max_hp
   end
+
+  def report
+    puts "Jmeno: #{@jmeno}"
+    puts "Sila: #{@sila}"
+    puts "Odolnost: #{@odolnost}"
+    puts "Obratnost: #{@obratnost}"
+    puts "Zivoty: #{@hp} z #{@max_hp}"
+    sleep(3)
+  end
 end

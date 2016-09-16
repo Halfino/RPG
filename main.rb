@@ -16,27 +16,27 @@ require_relative "lvlSystem"
 
 puts "Vitej ve hre Seru na tebe. Hra je zalozena na pravidlech Draciho doupete.
 V aktualni verzi si muzes vytvorit pouze bojovnika tridy valecnik.
-Zadej jmeno postavy: "đ
+Zadej jmeno postavy: "
 
 warrior = Bojovnik.new(gets.strip)
-
-p warrior
-p warrior.bonusy["b_sila"]
+puts "Vitej. Tve atributy jsou nasledujici:"
+warrior.report
 
 moucha = Potvora.new(rand(1..2))
-p moucha
-souboj = Souboj.new(warrior, moucha)đđ
+
+souboj = Souboj.new(warrior, moucha)
 souboj.boj
-p warrior
+
 warrior.xp += 50
 levling = Leveling.new(warrior)
 levling.experience
 levling.rozdel
 warrior.gold = 100
+warrior.report
 obchod = Obchod_zbrane.new(warrior).obchoduj
 obchod = Obchod_zbroj.new(warrior).obchoduj
 
-p warrior
+
 moucha = Potvora.new(1)
 souboj = Souboj.new(warrior, moucha).boj
-p warrior
+
