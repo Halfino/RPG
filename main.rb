@@ -13,6 +13,7 @@ require_relative "bestiar"
 require_relative "obchod"
 require_relative "souboj"
 require_relative "lvlSystem"
+require_relative "mise"
 
 puts "Vitej ve hre Seru na tebe. Hra je zalozena na pravidlech Draciho doupete.
 V aktualni verzi si muzes vytvorit pouze bojovnika tridy valecnik.

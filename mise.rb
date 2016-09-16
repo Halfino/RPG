@@ -1,4 +1,4 @@
-#Soubor logiky dobrodruzstvi, ci questu.
+#Soubor logiky dobrodruzstvi, ci questu.nacitani ze souboru.
 class Quest
   attr_reader :nazev ,:zadani
   def initialize(nazev, zadani)
